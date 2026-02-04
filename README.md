@@ -14,6 +14,7 @@ This project implements machine learning classification models to predict whethe
   - Post-pruned model
 
 ## Results
+- The choice of metric was recall to catch as many positives as possible.
 - High lead times, simple meal plans, higher prices, and presence of children increase the likelihood of cancellations
 - Bookings are more likely to be confirmed when:
   - Lead time is low
