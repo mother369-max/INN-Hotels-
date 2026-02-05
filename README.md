@@ -1,4 +1,4 @@
-# INN-Hotels-
+# INN Hotels Supervised Learning
 
 INN Hotels is a Portugal-based organization that faced heavy revenue losses due to last-minute booking cancellations.  
 This project implements machine learning classification models to predict whether a customer will **cancel** or **confirm** a booking.
